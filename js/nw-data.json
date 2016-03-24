@@ -1,0 +1,18 @@
+{"msgboost":[{ "aircel":
+   {"cost":17,"validity": "37 days","usage": "30 MB"},
+  "airtel":
+   {"cost":33,"validity": "20 days","usage": "10 MB"},
+  "vfone":
+    {"cost":47,"validity": "20 days","usage": "10 MB"}
+    
+  },
+  { "aircel":
+   {"cost":37,"validity": "47 days","usage": "60 MB"},
+  "airtel":
+   {"cost":63,"validity": "30 days","usage": "70 MB"},
+  "vfone":
+    {"cost":99,"validity": "100 days","usage": "10 GB"}
+    
+  }]
+}
+
